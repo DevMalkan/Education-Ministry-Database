@@ -1,0 +1,201 @@
+School_ID,Name,Type,Date_Of_Establishment,Fees,No_Of_Teachers,No_Of_Students,Mid_Day_Meal
+1,Harvard School,Z,11-08-2008,57488,11,370,FALSE
+2,North Carolina State School,Z,06-10-1995,44744,23,54,FALSE
+3,Emory School,Z,13-03-1950,27853,24,398,FALSE
+4,The School of Georgia,Z,02-09-1995,18853,27,73,TRUE
+5,North Carolina State School,Z,25-03-1997,43463,10,107,TRUE
+6,Drexel School,Z,05-05-2008,18923,11,495,TRUE
+7,"School of California, Davis",Z,14-08-1987,22899,24,347,FALSE
+8,Princeton School,Z,10-06-2001,75841,17,434,TRUE
+9,Brandeis School,Z,27-01-1990,3073,11,336,FALSE
+10,Arizona State School,Z,07-09-1960,11397,13,405,FALSE
+11,Massachusets Institute of Technology,Z,04-02-1946,10158,29,311,TRUE
+12,The Katz School at Yeshiva School,Z,30-06-1955,28706,18,92,
+13,Iowa State School,Z,21-04-1965,5674,13,187,
+14,The New School,Z,04-12-2017,5570,18,88,
+15,Michigan State School,Z,09-07-1986,6504,25,407,
+16,Columbia School,Z,24-08-2015,1157,15,455,
+17,Indiana School Bloomington,Z,19-08-1975,89469,25,400,FALSE
+18,School of Oklahoma,Z,24-03-2004,22198,24,458,TRUE
+19,Harvard School,Z,26-03-1963,23174,23,470,TRUE
+20,Boston School,Z,30-11-1978,48156,22,348,FALSE
+21,The School of Georgia,Z,24-04-2011,62817,25,358,FALSE
+22,Brown School,Z,13-01-1974,6310,25,479,FALSE
+23,School of South Florida,Z,13-05-1978,97153,12,170,FALSE
+24,School of Wisconsin-Madison,Z,04-10-2010,36187,11,260,FALSE
+25,Lehigh School,Z,01-11-2001,8797,23,265,TRUE
+26,School of Michigan,Z,26-07-1960,64304,29,349,TRUE
+27,Arizona State School,Z,20-08-1949,24485,10,426,FALSE
+28,Colorado State School,Z,05-07-2011,47752,27,64,TRUE
+29,Stanford School,Z,07-11-2004,9723,29,93,
+30,Vanderbilt School,Z,04-08-1952,58223,15,431,
+31,"The School of Tennessee, Knoxville",Z,15-05-2012,80927,13,121,
+32,"School of California, San Diego (UCSD)",Z,06-12-1965,45334,21,462,
+33,Wake Forest School,Z,11-08-1995,18349,12,100,
+34,"School of Illinois, Chicago (UIC)",Z,15-10-1998,13518,12,123,
+35,School of Texas Dallas,Z,27-01-1950,10706,16,212,
+36,Drexel School,Z,31-07-1987,95166,20,113,
+37,School of Southern California,Z,04-01-1972,9187,26,164,FALSE
+38,The Katz School at Yeshiva School,Z,03-01-1983,96913,14,163,TRUE
+39,Rutgers School - New Brunswick,Z,04-10-2011,82346,17,371,TRUE
+40,Oregon State School,Z,18-02-1984,80462,21,447,FALSE
+41,Carnegie Mellon School,Z,09-11-1987,11199,23,149,FALSE
+42,The Katz School at Yeshiva School,Z,01-08-1989,77430,14,191,FALSE
+43,"School of California, Davis",Z,29-12-1976,82378,18,108,FALSE
+44,Vanderbilt School,Z,17-11-2009,93308,26,120,FALSE
+45,Georgetown School,Z,11-04-2018,1702,11,53,TRUE
+46,Case Western Reserve School,Z,23-09-1975,29922,20,138,TRUE
+47,"School of California, Davis",Z,02-12-1967,84867,16,494,FALSE
+48,Northeastern School,Z,27-12-1986,42734,23,436,TRUE
+49,Northwestern School,Z,22-05-2013,46596,23,465,
+50,Cornell School,Z,18-06-1977,32715,25,189,
+51,Clark School,Z,08-05-1956,50135,15,297,
+52,Northwestern School,Z,24-07-1958,9746,10,437,
+53,Brandeis School,Z,20-02-1981,21673,19,260,
+54,School of Washington,Z,17-01-1994,56067,14,226,
+55,School of Pennsylvania,Z,25-12-1959,47216,15,287,
+56,Stanford School,Z,24-06-1946,23245,21,287,
+57,School of Rochester,Z,04-11-1973,57246,21,395,
+58,Georgetown School,Z,09-07-1996,88822,27,469,
+59,George Washington School,Z,05-06-1967,76302,12,110,FALSE
+60,Illinois Institute of Technology,Z,14-03-2006,99166,23,435,TRUE
+61,Lehigh School,Z,11-03-1970,45863,29,295,TRUE
+62,Rice School,Z,02-03-1977,21335,12,490,FALSE
+63,School of Pittsburgh,Z,30-05-1993,28021,17,414,FALSE
+64,The New School,Z,12-12-1996,23574,27,337,FALSE
+65,Washington State School,Z,07-12-1968,77044,18,484,FALSE
+66,"School of Colorado, Denver",Z,15-02-1995,25122,21,105,FALSE
+67,Rensselaer Polytechnic School,Z,28-01-1968,52078,14,485,TRUE
+68,"School of California, Riverside",Z,16-07-1996,11089,17,310,TRUE
+69,"School of Illinois, Chicago (UIC)",Z,23-06-1957,40956,23,498,FALSE
+70,George Washington School,Z,20-01-1961,609,21,468,TRUE
+71,"Stony Brook School, State School of New York",Z,06-08-1973,61278,20,491,
+72,Northwestern School,Z,12-08-2010,6323,27,57,
+73,School of Notre Dame,Z,05-06-1991,49594,13,153,
+74,School of Illinois at Urbana-Champaign,Z,22-04-1987,69552,17,310,
+75,School of Kansas,Z,22-09-2007,85215,14,253,
+76,School of Minnesota,Z,01-09-1949,16143,21,98,
+77,Iowa State School,Z,17-02-2013,77468,29,342,
+78,Northwestern School,Z,23-02-1968,85849,17,474,
+79,School of Pittsburgh,Z,23-06-1995,47642,20,451,
+80,School of Connecticut,Z,29-10-1984,61687,21,176,
+81,Yale School,Z,31-10-1979,19776,11,468,
+82,School of Hawai,Z,02-04-1953,16152,29,102,
+83,"School of Maryland, School Park",Z,29-12-2005,11930,12,232,
+84,The School of Georgia,Z,29-04-1981,10226,28,176,FALSE
+85,"School of Maryland, School Park",Z,23-07-2018,43879,11,392,TRUE
+86,The New School,Z,30-01-2012,22233,19,72,TRUE
+87,Wayne State School,Z,24-11-1999,24339,10,98,FALSE
+88,School of Miami,Z,02-08-1952,45853,27,159,FALSE
+89,Georgetown School,Z,13-08-1995,92255,26,410,FALSE
+90,"The School of Tennessee, Knoxville",Z,10-01-2015,62380,13,377,FALSE
+91,Texas A&M School,Z,13-10-1982,88157,21,238,FALSE
+92,Columbia School,Z,18-04-2006,97812,12,100,TRUE
+93,"School of California, Irvine",Z,21-06-1994,23912,26,169,TRUE
+94,School of Michigan,Z,24-08-2017,82826,14,241,FALSE
+95,School of Virginia,Z,03-10-1995,1088,26,356,TRUE
+96,School of Rochester,Z,21-09-2004,88481,28,319,
+97,Tufts School,Z,23-02-2006,89330,12,446,
+98,School of Vermont,Z,07-10-1952,13016,13,246,
+99,George Washington School,Z,02-07-1992,36481,29,132,
+100,School of Utah,Z,29-07-2010,6141,16,110,FALSE
+101,"The School of Tennessee, Knoxville",Z,07-05-1991,90118,21,470,TRUE
+102,School of Utah,Z,11-03-1999,61047,24,245,TRUE
+103,School of Connecticut,Z,27-05-1951,37931,11,90,FALSE
+104,The School of Georgia,Z,30-11-1988,50307,21,453,FALSE
+105,Johns Hopkins School,Z,21-11-2003,99316,13,422,FALSE
+106,Lehigh School,Z,11-12-1997,25884,26,236,FALSE
+107,"School of Maryland, School Park",Z,11-01-1962,39799,10,121,FALSE
+108,School of Iowa,Z,16-08-2001,3142,25,345,TRUE
+109,School of Massachusetts Amherst,Z,20-03-2012,68099,21,160,TRUE
+110,Tulane School,Z,07-11-1982,688,29,335,FALSE
+111,School of Miami,Z,20-08-1981,70565,13,463,TRUE
+112,Georgia Institute of Technology,Z,20-06-1962,8998,22,388,
+113,Texas A&M School,Z,11-09-1979,8267,14,336,
+114,Iowa State School,Z,29-08-1999,49877,15,430,
+115,School of Southern California,Z,26-10-1955,14853,27,152,FALSE
+116,Brown School,Z,01-11-1958,55924,21,354,TRUE
+117,School of Illinois at Urbana-Champaign,Z,15-12-1974,42580,18,106,TRUE
+118,School of Hawai,Z,09-08-1976,33423,21,469,FALSE
+119,Brandeis School,Z,15-08-1955,54068,23,109,FALSE
+120,School of Southern California,Z,16-09-1952,89767,17,485,FALSE
+121,Northeastern School,Z,21-12-2015,25880,17,394,FALSE
+122,Texas A&M School,Z,06-05-1947,15924,25,133,FALSE
+123,Dartmouth School,Z,01-05-1974,73245,13,127,TRUE
+124,School of Oklahoma,Z,09-08-2009,74761,10,326,TRUE
+125,Wayne State School,Z,14-09-2001,49715,16,329,FALSE
+126,School of Massachusetts Amherst,Z,16-01-2002,50143,26,252,TRUE
+127,"School of Colorado, Denver",Z,21-07-2007,31159,22,205,
+128,School of Iowa,Z,21-11-1986,16649,25,134,
+129,Texas A&M School,Z,13-02-1968,90812,19,203,
+130,School of Texas at Austin,Z,16-08-1993,81964,27,240,
+131,Emory School,Z,05-09-1995,22214,24,136,FALSE
+132,School of Miami,Z,23-04-1966,40234,26,171,TRUE
+133,"School of Colorado, Denver",Z,08-05-2007,3895,10,314,TRUE
+134,School at Buffalo SUNY,Z,02-08-1991,74597,15,170,FALSE
+135,California Institute of Technology (Caltech),Z,26-02-1949,92491,15,264,FALSE
+136,"School of California, Irvine",Z,23-08-2005,42302,16,147,FALSE
+137,Rice School,Z,18-09-1971,97282,17,149,FALSE
+138,School of Vermont,Z,01-10-2003,69194,18,184,FALSE
+139,Brown School,Z,13-03-1975,91031,29,257,TRUE
+140,School of Delaware,Z,04-01-1948,63255,15,97,TRUE
+141,"School of Colorado, Denver",Z,13-01-1967,34693,26,412,FALSE
+142,School of Florida,Z,23-02-1965,17090,22,65,TRUE
+143,School of Utah,Z,07-12-1996,18845,28,166,
+144,School at Buffalo SUNY,Z,30-09-2017,41316,27,154,
+145,Iowa State School,Z,16-11-2013,52717,14,140,
+146,Brandeis School,Z,14-06-1999,58027,29,416,
+147,Brown School,Z,29-07-1969,71209,29,343,
+148,Texas A&M School,Z,04-05-1967,82470,20,410,
+149,Yale School,Z,25-04-2000,15370,29,137,
+150,School of Illinois at Urbana-Champaign,Z,07-01-1986,53445,11,411,
+151,Rensselaer Polytechnic School,Z,31-10-1974,35682,21,95,FALSE
+152,School of Miami,Z,25-09-1954,73916,13,62,TRUE
+153,School of Pennsylvania,Z,23-12-1975,23061,18,84,TRUE
+154,School of Hawai,Z,10-04-2009,36656,10,139,FALSE
+155,Boston School,Z,19-10-1960,97185,15,409,TRUE
+156,"The School of Tennessee, Knoxville",Z,16-04-2009,61089,18,251,FALSE
+157,Yale School,Z,28-12-1992,34752,19,238,TRUE
+158,Emory School,Z,10-03-2014,98075,27,64,TRUE
+159,Rice School,Z,08-01-1984,78495,22,71,FALSE
+160,Cornell School,Z,05-03-1959,38800,21,76,TRUE
+161,Virginia Polytechnic Institute and State School,Z,31-10-1983,56006,16,328,TRUE
+162,The Katz School at Yeshiva School,Z,15-01-1979,10236,26,241,TRUE
+163,School at Buffalo SUNY,Z,17-03-1957,33214,24,202,FALSE
+164,Vanderbilt School,Z,24-02-1981,76540,29,150,FALSE
+165,Washington State School,Z,31-12-1988,48841,29,392,FALSE
+166,Colorado State School,Z,06-02-1952,34641,14,298,TRUE
+167,School of Virginia,Z,16-05-1997,3846,16,234,FALSE
+168,School of Southern California,Z,07-10-1957,1088,26,412,TRUE
+169,Washington School in St. Louis,Z,07-07-2007,17910,19,210,TRUE
+170,Yale School,Z,05-03-1987,3653,15,484,TRUE
+171,Michigan State School,Z,17-01-1955,39349,16,328,FALSE
+172,Arizona State School,Z,29-04-2000,56819,21,117,
+173,North Carolina State School,Z,28-06-1961,89612,14,62,
+174,School of Michigan,Z,22-09-1996,98414,16,265,
+175,The Ohio State School,Z,10-08-1970,91974,13,386,
+176,Northeastern School,Z,11-02-1982,3472,22,449,
+177,"School of California, Santa Barbara (UCSB)",Z,04-07-1960,5972,14,291,
+178,Tulane School,Z,12-08-2011,68926,24,194,
+179,School of Michigan,Z,16-09-1978,43610,23,320,
+180,Emory School,Z,06-04-1998,92948,18,230,
+181,Emory School,Z,23-12-1988,69738,26,487,
+182,Duke School,Z,15-09-1982,20546,22,377,
+183,"School of California, Los Angeles (UCLA)",Z,22-04-1981,93252,23,194,
+184,Rice School,Z,31-10-2011,65509,24,114,FALSE
+185,Lehigh School,Z,20-12-2004,25420,10,480,TRUE
+186,Texas A&M School,Z,30-11-1945,22414,21,185,TRUE
+187,Lehigh School,Z,20-03-1997,60784,14,290,TRUE
+188,Pennsylvania State School,Z,21-03-1959,25096,15,384,FALSE
+189,School of Chicago,Z,24-03-1954,8695,10,499,TRUE
+190,School of Illinois at Urbana-Champaign,Z,25-07-2010,74821,17,394,TRUE
+191,Illinois Institute of Technology,Z,27-09-1957,21744,15,396,TRUE
+192,Colorado State School,Z,28-04-1956,67826,27,274,FALSE
+193,The Katz School at Yeshiva School,Z,21-03-1999,61833,16,272,FALSE
+194,Carnegie Mellon School,Z,14-09-1983,69729,13,117,FALSE
+195,School of Virginia,Z,02-04-2012,38551,29,435,FALSE
+196,Princeton School,Z,26-08-1977,25268,10,382,FALSE
+197,Drexel School,Z,13-02-1956,84990,26,420,TRUE
+198,School of Utah,Z,23-04-2011,32483,19,56,FALSE
+199,School of Minnesota,Z,15-02-2000,39869,25,380,TRUE
+200,"School of Colorado, Denver",Z,09-06-1953,78509,20,283,FALSE

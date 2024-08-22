@@ -1,0 +1,76 @@
+College_ID,Name,Type,Date_Of_Establishment,Fees,No_Of_Teachers,No_Of_Students
+1,Northeastern University,C,21-06-1994,109727,13,223
+2,"University of California, Riverside",C,24-03-1955,197233,21,223
+3,Dartmouth College,C,17-08-1996,12957,33,97
+4,Washington State University,C,06-05-1983,103850,23,106
+5,New York University,C,26-10-2014,92804,35,192
+6,The New School,C,06-03-1984,67475,24,67
+7,Harvard University,C,18-02-2015,173616,23,146
+8,Emory University,C,22-01-2005,23609,31,241
+9,University of Texas at Austin,C,21-05-1970,135662,20,224
+10,University of Massachusetts Amherst,C,17-01-1968,98584,39,58
+11,University of Minnesota,C,04-10-2008,151655,33,76
+12,"University of California, San Diego (UCSD)",C,19-06-1960,139265,31,205
+13,Oregon State University,C,22-11-1964,162862,32,128
+14,Purdue University,C,09-05-1970,181088,19,138
+15,Drexel University,C,26-06-1957,8025,27,162
+16,University of Michigan,C,11-03-1960,181814,16,108
+17,University of New Mexico,C,24-08-1968,166888,11,104
+18,University of Florida,C,03-02-1959,118373,27,132
+19,Massachusets Institute of Technology,C,17-06-1978,160822,31,112
+20,University of Michigan,C,20-12-1980,76667,39,167
+21,University of Florida,C,01-08-2017,138495,39,220
+22,Rensselaer Polytechnic University,C,16-04-1960,69691,36,106
+23,University of Wisconsin-Madison,C,27-12-1972,182063,35,184
+24,New York University,C,20-07-2003,85467,25,67
+25,"University of California, Irvine",C,10-12-1970,104273,34,103
+26,Case Western Reserve University,C,20-01-1971,89057,28,230
+27,University of Pittsburgh,C,04-05-2006,70403,37,104
+28,University of Texas at Austin,C,15-04-1946,5658,37,184
+29,North Carolina State University,C,15-06-1978,5033,22,217
+30,University of Notre Dame,C,31-10-1963,74314,38,247
+31,Washington State University,C,01-11-1975,154535,37,99
+32,Princeton University,C,18-05-1949,184494,25,62
+33,Cornell University,C,31-05-1946,127243,32,52
+34,Washington University in St. Louis,C,24-06-2006,146386,38,195
+35,The New School,C,31-03-2004,23667,29,52
+36,"University of Maryland, Baltimore County",C,07-11-1976,125531,12,120
+37,University of Colorado Boulder,C,04-02-1946,36966,29,228
+38,Brandeis University,C,12-11-1976,137733,15,88
+39,University at Buffalo SUNY,C,14-06-1947,165921,19,224
+40,Michigan State University,C,26-06-1967,78332,14,108
+41,"University of Illinois, Chicago (UIC)",C,23-11-1967,171199,39,162
+42,Vanderbilt University,C,29-03-1996,182507,13,109
+43,Georgia Institute of Technology,C,20-05-2016,136472,33,212
+44,Columbia University,C,23-05-1947,187271,27,114
+45,University of Texas Dallas,C,31-07-1961,115141,17,166
+46,Georgetown University,C,18-12-1980,128658,11,170
+47,"Stony Brook University, State University of New York",C,10-06-1993,116715,23,196
+48,"University of California, Santa Cruz",C,09-01-1949,21096,16,186
+49,Johns Hopkins University,C,06-12-1979,71383,15,162
+50,University of Utah,C,22-10-1969,109545,13,65
+51,Georgia Institute of Technology,C,07-01-2012,73720,35,117
+52,University of Notre Dame,C,22-03-2017,76508,24,175
+53,George Washington University,C,24-10-2017,5726,16,239
+54,Wayne State University,C,28-01-2015,117093,10,85
+55,Rutgers University - New Brunswick,C,26-02-1987,81042,13,183
+56,Howard University,C,11-11-1962,80209,36,243
+57,Stanford University,C,20-07-2015,22854,36,125
+58,University of Washington,C,24-10-1947,6122,30,76
+59,Stanford University,C,24-05-1976,41337,26,233
+60,Rutgers University - New Brunswick,C,21-07-1959,144818,30,66
+61,"The University of Tennessee, Knoxville",C,25-06-1950,164522,24,128
+62,Iowa State University,C,28-01-1982,57009,27,122
+63,University of New Mexico,C,24-12-2013,9279,32,97
+64,"University of California, Riverside",C,15-10-1995,92143,28,182
+65,Stanford University,C,25-07-2001,176109,36,212
+66,"University of California, Berkeley (UCB)",C,01-03-1965,22667,36,99
+67,"University of California, Los Angeles (UCLA)",C,28-02-1962,17971,24,235
+68,Georgia Institute of Technology,C,13-06-1959,25940,21,66
+69,Carnegie Mellon University,C,06-05-1994,11464,26,178
+70,Indiana University Bloomington,C,01-07-2015,103401,12,88
+71,University of Michigan,C,06-10-1949,104365,11,192
+72,Tufts University,C,28-01-1948,94115,31,50
+73,University of Pennsylvania,C,14-07-2003,175004,23,232
+74,University of Iowa,C,24-08-1963,177265,27,52
+75,University of Hawai,C,08-08-1951,49027,12,213
