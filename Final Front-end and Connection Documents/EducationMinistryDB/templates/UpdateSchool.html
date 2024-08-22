@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Update School Data</title>
+    <style>
+        * {
+          box-sizing: border-box;
+        }
+
+        body {
+          background-color: steelblue;
+          color: #fff;
+          font-family: 'Muli', sans-serif;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          margin: 0;
+        }
+
+        .container {
+          background-color: rgba(0, 0, 0, 0.4);
+          padding: 20px 40px;
+          border-radius: 5px;
+        }
+
+        .container h1 {
+          text-align: center;
+          margin-bottom: 30px;
+        }
+
+        .container a {
+          text-decoration: none;
+          color: lightblue;
+        }
+
+        .form-control {
+          position: relative;
+          margin-bottom: 0px;
+          width: 300px;
+        }
+
+        .form-control input {
+          background-color: transparent;
+          border: 0;
+          border-bottom: 2px #fff solid;
+          display: block;
+          width: 100%;
+          padding: 5px 0;
+          font-size: 18px;
+          color: #fff;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>School Updation Form</h1>
+    <form  action="/updateSchoolData/" method="POST">
+        {% csrf_token %}
+        <div class="form-control">
+        <label>School Id
+        <input type="number" name="Sid">
+        </label><br>
+        </div>
+        <div class="form-control">
+        <label>School Name
+        <input type="text" name="Sname">
+        </label><br>
+        </div>
+        <div class="form-control">
+        <label>Type
+        <input type="text" name="Stype">
+        </label><br>
+        </div>
+        <div class="form-control">
+        <label>Date of Establishment
+        <input type="date" name="Sdate">
+        </label><br>
+        </div>
+        <div class="form-control">
+        <label>Fees
+        <input type="number" name="Sfees">
+        </label><br>
+        </div>
+        <div class="form-control">
+        <label>No of Teachers
+        <input type="number" name="Steacher">
+        </label><br>
+        </div>
+        <div class="form-control">
+        <label>No of Students
+        <input type="number" name="Sstudents">
+        </label><br>
+        </div>
+        <div class="form-control">
+        <label>Midday Meal
+        <input type="text" name="Smdm">
+        </label><br>
+        </div>
+        <input type="submit">
+    </form>
+</div>
+</body>
+</html>

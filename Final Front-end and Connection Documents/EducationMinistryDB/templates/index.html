@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+    <style>
+        * {
+          box-sizing: border-box;
+        }
+
+        body {
+          font-family: Arial, Helvetica, sans-serif;
+            background-color: steelblue;
+        }
+
+        .header {
+          background-color: #f1f1f1;
+          padding: 30px;
+          text-align: center;
+          font-size: 35px;
+        }
+        .column {
+          float: left;
+          width: 25%;
+          padding: 10px;
+          height: 500px;
+        }
+
+        .row:after {
+          content: "";
+          display: table;
+          clear: both;
+        }
+
+        ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          width: 300px;
+          background-color: #f1f1f1;
+        }
+
+        li a {
+          display: block;
+          color: #000;
+          padding: 8px 16px;
+          text-decoration: none;
+        }
+
+        li a.active {
+          background-color: #04AA6D;
+          color: white;
+        }
+
+        li a:hover:not(.active) {
+          background-color: #555;
+          color: white;
+        }
+    </style>
+</head>
+<body>
+<div class="header">
+  <h2>Education Ministry of India</h2>
+</div>
+<div class="row">
+    <div class="column"></div>
+    <div class="column">
+        <ul>
+            <li><a class="active">School</a></li>
+            <li><a href="view_school_data">View</a></li>
+            <li><a href="insert_school">Insert</a></li>
+            <li><a href="updateschool">Update</a></li>
+            <li><a href="delschool">Delete</a></li>
+        </ul>
+    </div>
+    <div class="column">
+        <ul>
+            <li><a class="active">College</a></li>
+            <li><a href="view_college_data">View</a></li>
+            <li><a href="insert_college">Insert</a></li>
+            <li><a href="updatecollege">Update</a></li>
+            <li><a href="delcollege">Delete</a></li>
+        </ul>
+    </div>
+    <div class="column"></div>
+</div>
+</body>
+</html>

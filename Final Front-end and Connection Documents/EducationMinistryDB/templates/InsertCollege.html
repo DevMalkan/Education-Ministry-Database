@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Insert College Data</title>
+    <style>
+        * {
+          box-sizing: border-box;
+        }
+
+        body {
+          background-color: steelblue;
+          color: #fff;
+          font-family: 'Muli', sans-serif;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          margin: 0;
+        }
+
+        .container {
+          background-color: rgba(0, 0, 0, 0.4);
+          padding: 20px 40px;
+          border-radius: 5px;
+        }
+
+        .container h1 {
+          text-align: center;
+          margin-bottom: 30px;
+        }
+
+        .container a {
+          text-decoration: none;
+          color: lightblue;
+        }
+
+        .form-control {
+          position: relative;
+          margin-bottom: 5px;
+          width: 300px;
+        }
+
+        .form-control input {
+          background-color: transparent;
+          border: 0;
+          border-bottom: 2px #fff solid;
+          display: block;
+          width: 100%;
+          padding: 5px 0;
+          font-size: 18px;
+          color: #fff;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+        <h1>College Insertion Form</h1>
+    <form  action="/insertCollegeData/" method="POST">
+        {% csrf_token %}
+        <div class="form-control">
+        <label>College Id
+        <input type="number" name="Cid">
+        </label><br>
+        </div>
+        <div class="form-control">
+        <label>College Name
+        <input type="text" name="Cname">
+        </label><br>
+        </div>
+        <div class="form-control">
+        <label>Type
+        <input type="text" name="Ctype">
+        </label><br>
+        </div>
+        <div class="form-control">
+        <label>Date of Establishment
+        <input type="date" name="Cdate">
+        </label><br>
+        </div>
+        <div class="form-control">
+        <label>Fees
+        <input type="number" name="Cfees">
+        </label><br>
+        </div>
+        <div class="form-control">
+        <label>No of Teachers
+        <input type="number" name="Cteacher">
+        </label><br>
+        </div>
+        <div class="form-control">
+        <label>No of Students
+        <input type="number" name="Cstudents">
+        </label><br>
+        </div>
+        <input type="submit">
+    </form>
+</div>
+</body>
+</html>
